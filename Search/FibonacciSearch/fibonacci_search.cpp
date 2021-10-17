@@ -1,5 +1,5 @@
 //Search algorithm for sorted list, with complexity of the order O(log(n)).
-#include <iostream>
+#include <bits/stdc++.h>
 #include <vector>
 
 using namespace std;
