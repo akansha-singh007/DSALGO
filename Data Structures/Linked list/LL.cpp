@@ -46,6 +46,7 @@ void append(int d, node** h)
 	temp->next=temp2;
 
 }
+//use different code for reverse
 void reverse(node** h)
 {
 	node * curr=(*h);
